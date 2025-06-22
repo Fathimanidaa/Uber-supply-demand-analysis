@@ -50,6 +50,6 @@ To analyze Uber ride requests and identify:
 
 - 👤 **Nida Fathima**  
 - 📘 Beginner Data Analyst | Exploring real-world datasets  
-- 🌐 GitHub: [your-github-profile-link]
+- 🌐 GitHub: [https://github.com/Fathimanidaa]
 
 - 
